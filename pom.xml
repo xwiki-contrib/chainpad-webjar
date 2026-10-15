@@ -22,7 +22,7 @@
   </parent>
   <packaging>jar</packaging>
   <artifactId>chainpad-webjar</artifactId>
-  <version>5.3.2-SNAPSHOT</version>
+  <version>5.3.2</version>
   <name>ChainPad WebJar</name>
   <description>WebJar packaging for ChainPad</description>
   <url>https://github.com/cryptpad/chainpad</url>
@@ -54,7 +54,7 @@
     <url>http://github.com/xwiki-contrib/${project.artifactId}</url>
     <connection>scm:git:git://github.com/xwiki-contrib/${project.artifactId}.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/${project.artifactId}.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>chainpad-webjar-5.3.2</tag>
   </scm>
   <build>
     <plugins>
